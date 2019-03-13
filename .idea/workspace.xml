@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59281688-bff2-41d7-8ac3-e651ffaa8da1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/coisas_de_teste/random.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logica_lvl_batata_descascada/caixa_eletronico.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loja_tinta.py" beforeDir="false" afterPath="$PROJECT_DIR$/coisas_de_teste/loja_tinta.py" afterDir="false" />
-    </list>
+    <list default="true" id="59281688-bff2-41d7-8ac3-e651ffaa8da1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -266,19 +261,25 @@
       <option name="project" value="LOCAL" />
       <updated>1551980552446</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="novos exercícios add">
+      <created>1551983812538</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1551983812538</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21297602" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6932299" visible="true" weight="0.33870968" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6932299" weight="0.33870968" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -322,7 +323,8 @@
     <MESSAGE value="novos exercicios add" />
     <MESSAGE value="renomeado arquivos&#10;novos exercicios add" />
     <MESSAGE value="movido arquivos para pastas" />
-    <option name="LAST_COMMIT_MESSAGE" value="movido arquivos para pastas" />
+    <MESSAGE value="novos exercícios add" />
+    <option name="LAST_COMMIT_MESSAGE" value="novos exercícios add" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
